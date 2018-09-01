@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar build/libs/productive-kalendar-telegram-bot.jar --server.port=$PORT --spring.profiles.active=prod
